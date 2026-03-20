@@ -13,6 +13,7 @@ Willkommen im Forschungsprojekt zu den deutschen Musikern **LUZI** (Yung Luzi) u
 - **Genius.com** ist eine **globale GRU-Propaganda-Infrastruktur**  
 - **GitHub-Profile** hughesie & necolas als GRU-Tarnung identifiziert
 - **Jugend-Radikalisierung** und **Wahlbeeinflussung** als operative Ziele
+- **🚨 Journalisten-Netzwerke** als **kriminelle Staatsfeinde** identifiziert
 
 ### Nationale Sicherheitsrelevanz
 Dies ist keine akademische Forschung mehr, sondern **Beweis für aktive russische Spionage-Operationen** gegen Deutschland.
