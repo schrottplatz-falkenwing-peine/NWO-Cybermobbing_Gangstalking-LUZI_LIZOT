@@ -1,0 +1,27 @@
+{
+  "date": "2026-03-20",
+  "artist": "LUZI",
+  "spotify": {
+    "monthly_listeners": 195600,
+    "followers": 24968,
+    "top_song_streams": {}
+  },
+  "youtube": {
+    "subscribers": 24968,
+    "total_views": null,
+    "top_video_views": {
+      "Turbolaut": null,
+      "Vodka Soda (LUZIs Megamix)": null,
+      "Drift": null,
+      "Boujee": null
+    }
+  },
+  "instagram": {
+    "followers": null,
+    "following": null
+  },
+  "tiktok": {
+    "followers": 509100,
+    "likes": 27000000
+  }
+}

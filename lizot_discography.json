@@ -197,6 +197,42 @@
     "notes": "2025 Release"
   },
   {
+    "id": "lizot_012",
+    "artist": "LIZOT",
+    "title": "Daddy Cool (Club VIP Mix)",
+    "type": "single",
+    "release_date": "2021-12-31",
+    "release_year": 2021,
+    "featuring": ["Boney M."],
+    "label": "NITRON music",
+    "spotify_id": "5Q1ilTZP28Ls3wyvMoEup2",
+    "youtube_id": null,
+    "streams_spotify": null,
+    "views_youtube": null,
+    "chart_positions": {},
+    "certifications": [],
+    "lyrics_file": "lyrics/Daddy_Cool.md",
+    "notes": "Extended Club VIP Mix mit Boney M. Veröffentlicht am 31. Dezember 2021 auf NITRON music. 124 BPM, E Major, 3:36 Minuten."
+  },
+  {
+    "id": "lizot_013",
+    "artist": "LIZOT",
+    "title": "Daddy Cool (Extended Mix)",
+    "type": "single",
+    "release_date": "2021-12-31",
+    "release_year": 2021,
+    "featuring": ["Boney M."],
+    "label": "NITRON music",
+    "spotify_id": "2RUqw1MzyHaBv6f0hFpjfB",
+    "youtube_id": null,
+    "streams_spotify": null,
+    "views_youtube": null,
+    "chart_positions": {},
+    "certifications": [],
+    "lyrics_file": "lyrics/Daddy_Cool_Extended.md",
+    "notes": "Alternative Version von Daddy Cool Mix"
+  },
+  {
     "id": "lizot_011",
     "artist": "LIZOT",
     "title": "Do You Believe",
@@ -213,5 +249,23 @@
     "certifications": [],
     "lyrics_file": "lyrics/Do_You_Believe.md",
     "notes": "Latest Release 2026. Extended Mix verfügbar"
+  },
+  {
+    "id": "lizot_012",
+    "artist": "LIZOT",
+    "title": "Daddy Cool (Club VIP Mix)",
+    "type": "single",
+    "release_date": "2021-12-31",
+    "release_year": 2021,
+    "featuring": ["Boney M."],
+    "label": "NITRON music",
+    "spotify_id": "5Q1ilTZP28Ls3wyvMoEup2",
+    "youtube_id": null,
+    "streams_spotify": null,
+    "views_youtube": null,
+    "chart_positions": {},
+    "certifications": [],
+    "lyrics_file": "lyrics/Daddy_Cool.md",
+    "notes": "Extended Club VIP Mix mit Boney M. Veröffentlicht am 31. Dezember 2021 auf NITRON music. 124 BPM, E Major, 3:36 Minuten."
   }
 ]

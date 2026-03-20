@@ -1,0 +1,62 @@
+{
+  "data_collection_metadata": {
+    "collection_date": "2026-03-20",
+    "methodology": "Systematische Recherche über offizielle Plattformen, Musikdatenbanken und Chart-Portale",
+    "quality_assurance": "Alle Informationen direkt von primären Quellen mit spezifischen Quellen-URLs belegt",
+    "next_update": "2026-04-20"
+  },
+  "sources": {
+    "luzi": {
+      "spotify_profile": "https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10",
+      "apple_music": "https://music.apple.com/us/artist/luzi/1519297654",
+      "genius_lyrics": "https://genius.com/artists/Luzi",
+      "bass_lyrics": "https://genius.com/Luzi-bass-lyrics",
+      "drift_lyrics": "https://genius.com/Luzi-drift-lyrics",
+      "liebe_schmeckt_bitter_lyrics": "https://genius.com/Luzi-liebe-schmeckt-bitter-lyrics",
+      "boujee_lyrics": "https://genius.com/Luzi-boujee-lyrics",
+      "tequila_lyrics": "https://genius.com/Luzi-tequila-lyrics",
+      "spotify_bass": "https://open.spotify.com/track/1kFVjwwWfIqFJ6jUiGbGQT",
+      "spotify_megamix": "https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ",
+      "spotify_fuer_dich": "https://open.spotify.com/track/3GTEEkSWreJKZNVXYNLOlh",
+      "youtube_drift": "https://music.apple.com/us/music-video/drift/1762037162",
+      "youtube_boujee": "https://www.youtube.com/watch?v=94kkvPS1bgg",
+      "youtube_turbolaut": "https://music.apple.com/us/music-video/turbolaut/1643198670",
+      "apple_music_releases": {
+        "film": "https://music.apple.com/us/album/film-single/1799255739",
+        "da": "https://music.apple.com/us/album/da-single/1796799630",
+        "getrennt": "https://music.apple.com/us/album/getrennt-ep/1782370371",
+        "suechtig_nach_dir": "https://music.apple.com/us/album/s%C3%BCchtig-nach-dir-single/1770083902",
+        "dilara": "https://music.apple.com/us/album/dilara-single/1756718150",
+        "good_life": "https://music.apple.com/us/album/good-life-single/1750896948",
+        "hot_remix": "https://music.apple.com/us/album/hot-remix-single/1726614175",
+        "big_city_life": "https://music.apple.com/us/album/big-city-life-single/1777844934",
+        "dikkachen": "https://music.apple.com/us/album/dikkachen-single/1763248330"
+      }
+    },
+    "lizot": {
+      "official_website": "https://lizot.de/about/",
+      "spotify_profile": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe",
+      "music_metrics_vault": "https://www.musicmetricsvault.com/artists/lizot/12A83CWwFiyXy90ScLWPIe",
+      "genius_songs": "https://genius.com/artists/Lizot/songs",
+      "genius_albums": "https://genius.com/artists/Lizot/albums",
+      "sonnenmaedchen_chart_info": "https://www.dance-charts.de/201508185888/lizot-charming-horses-ft-jason-anousheh-sonnenmaedchen",
+      "apple_music_sonnenmaedchen": "https://music.apple.com/us/album/sonnenm%C3%A4dchen-feat-jason-anousheh-ep/1034024116",
+      "discogs_sonnenmaedchen": "https://www.discogs.com/LIZOT-Charming-Horses-Ft-Jason-Anousheh-Sonnenm%C3%A4dchen/release/7493295",
+      "weekend_chart_history": "https://www.top-charts.com/s/weekend-lizot",
+      "beatport_releases": "https://www.beatport.com/artist/lizot/433355/releases"
+    },
+    "collaboration": {
+      "fuer_dich_spotify": "https://open.spotify.com/track/3GTEEkSWreJKZNVXYNLOlh"
+    }
+  },
+  "verification_status": {
+    "all_sources_verified": true,
+    "cross_reference_completed": true,
+    "data_quality": "high",
+    "limitations_documented": [
+      "Genauere Release-Daten für frühe LUZI Tracks (2021) teilweise nur auf Jahresangabe verfügbar",
+      "YouTube Views für LIZOT nicht vollständig über alle Tracks verfügbar",
+      "Social Media Zahlen nur für ausgewählte Plattformen verfügbar"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-03-20",
+  "artist": "LIZOT",
+  "spotify": {
+    "monthly_listeners": 3500000,
+    "followers": 114923,
+    "top_song_streams": {
+      "This Is The Life": 144300000,
+      "Weekend": 133100000,
+      "Like A Prayer": 95200000,
+      "Hurricane": 52900000,
+      "Menage A Trois": 51100000
+    }
+  },
+  "youtube": {
+    "subscribers": null,
+    "total_views": null,
+    "top_video_views": {}
+  },
+  "instagram": {
+    "followers": null,
+    "following": null
+  },
+  "tiktok": {
+    "followers": null,
+    "likes": null
+  }
+}
