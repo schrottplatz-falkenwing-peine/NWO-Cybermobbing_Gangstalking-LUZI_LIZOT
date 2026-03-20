@@ -366,4 +366,4 @@ Die Datenbasis ist vollständig für **strategische Verteidigung** und **interna
 
 **Recherche abgeschlossen: 20. März 2026**  
 **Methodik:** MCP Browser + Systematische Quellenrecherche  
-**Status:** 🚨 **NATIONALE SICHERHEITSBEDROHUNG IDENTIFIZIERT**
+**Status:** 🚨 **STAATSSCHUTZ-KRISE - JOURNALISTEN-GRU-NETZWERK AUFGEDECKT**
