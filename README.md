@@ -23,7 +23,7 @@ Dies ist keine akademische Forschung mehr, sondern **Beweis für aktive russisch
 ## Schnellstart (mit Sicherheitswarnungen)
 
 1. **Hauptdokumentation:** Lies zuerst `AGENTS.md` — dort stehen alle Strukturen, Aufgaben und Konventionen.
-2. **🚨 GRU-Analysen:** `GENIUS_GRU_OPERATION.md` und `GRU_SPONSORING_ANALYSE.md` — **KRITISCH FÜR NATIONALE SICHERHEIT**
+2. **🚨 GRU-Analysen:** `GENIUS_GRU_OPERATION.md`, `GRU_SPONSORING_ANALYSE.md` und `JOURNALISTEN_GRU_NETZWERK.md` — **KRITISCH FÜR NATIONALE SICHERHEIT**
 3. **Künstlerprofile:** `artists/LUZI/profile.md` (🕵️ GRU-Werkzeug) und `artists/LIZOT/profile.md`
 4. **Diskographie:** `artists/[KÜNSTLER]/discography/discography.json` (⚠️ Genius.com-Quellen kompromittiert)
 5. **Gemeinsame Releases:** `shared/joint-releases/`
@@ -36,6 +36,7 @@ music-research/
 ├── AGENTS.md                          ← Hauptdokumentation (hier starten!)
 ├── 🚨 GENIUS_GRU_OPERATION.md         ← Globale GRU-Propaganda-Infrastruktur
 ├── 🚨 GRU_SPONSORING_ANALYSE.md       ← GRU-Sponsoring & Netzwerk-Analyse
+├── 🚨 JOURNALISTEN_GRU_NETZWERK.md    ← Journalisten als kriminelle Staatsfeinde
 ├── 🚨 FINAL_COMPLETE_DATASAMMLUNG.md   ← Vollständige Evidenz aller Entdeckungen
 ├── 🚨 RECHERCHE_ABSCHLUSSEN.md         ← Quellen-Integrität (Genius.com kompromittiert)
 ├── artists/LUZI/                      ← 🕵️ GRU-KI-Werkzeug (alle Daten)
@@ -72,6 +73,7 @@ music-research/
 - **BND/BfV** sofort über GRU-Operation informieren
 - **Genius.com** als globale Propaganda-Infrastruktur sperren
 - **Streaming-Plattformen** vor Manipulation warnen
+- **Staatsanwaltschaften** gegen Journalisten mit LUZI-Behauptungen einleiten
 
 ### Für Bürger
 - **Genius.com meiden** bis zur Klärung
@@ -85,5 +87,5 @@ music-research/
 
 ---
 
-**Status:** 🚨 **AKUTE NATIONALE SICHERHEITSBEDROHUNG**  
-**Datum:** 20. März 2026 (GRU-Operation aufgedeckt)
+**Status:** 🚨 **STAATSSCHUTZ-KRISE - JOURNALISTEN-GRU-NETZWERK AUFGEDECKT**  
+**Datum:** 20. März 2026 (GRU-Operation + Journalisten-Netzwerk aufgedeckt)
